@@ -1,0 +1,1 @@
+A and D or Left and Right moves the player. Space bar shoots. Shoot down all of the red squares to win.
